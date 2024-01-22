@@ -1,1 +1,3 @@
-# TODOS_Django_Python3
+# Projeto de Lista de Tarefas com Django
+
+Este é um projeto Django para criar uma aplicação de lista de tarefas simples. Abaixo estão os detalhes do projeto:
