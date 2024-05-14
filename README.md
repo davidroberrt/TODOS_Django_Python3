@@ -1,3 +1,11 @@
-# Projeto de Lista de Tarefas com Django
+# Este é um projeto de uma aplicação web de ToDo List desenvolvida em Django. 
 
-Este é um projeto Django para criar uma aplicação de lista de tarefas simples.
+A aplicação permite que os usuários criem, visualizem, atualizem e excluam tarefas em uma lista de afazeres.
+
+Funcionalidades
+
+Adicionar novas tarefas à lista
+Visualizar todas as tarefas cadastradas
+Marcar tarefas como concluídas ou pendentes
+Editar o conteúdo das tarefas
+Excluir tarefas da lista
